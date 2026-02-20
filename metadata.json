@@ -1,0 +1,7 @@
+{
+  "name": "Copy of RCK Students' Association Portal",
+  "description": "A comprehensive management and information portal for RCK Students' Association, Kaiyarbil, Kutubdia, Cox's Bazar. Features member directories, event tracking, and an AI-powered student assistant.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
